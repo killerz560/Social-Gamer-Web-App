@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamersForum", "GamersForum\GamersForum.csproj", "{7997C9F0-1AEF-4986-B3D8-E360975E9989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamersForums", "GamersForums\GamersForums.csproj", "{798DF5C4-3258-4B10-ADDD-09A22B99B3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7997C9F0-1AEF-4986-B3D8-E360975E9989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7997C9F0-1AEF-4986-B3D8-E360975E9989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7997C9F0-1AEF-4986-B3D8-E360975E9989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7997C9F0-1AEF-4986-B3D8-E360975E9989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798DF5C4-3258-4B10-ADDD-09A22B99B3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798DF5C4-3258-4B10-ADDD-09A22B99B3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798DF5C4-3258-4B10-ADDD-09A22B99B3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798DF5C4-3258-4B10-ADDD-09A22B99B3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE07B3D-999F-47BA-97D6-2903C9C806C1}
+	EndGlobalSection
+EndGlobal
